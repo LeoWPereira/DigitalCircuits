@@ -1,2 +1,2 @@
 # DigitalCircuits
-Some University Digital Circuits Projects
+Some University's Digital Circuits Projects
